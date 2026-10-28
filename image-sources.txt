@@ -1,0 +1,32 @@
+ที่มาภาพสำหรับ วันนี้กินอะไรดี (ITF Lab 15)
+ดาวน์โหลดและตรวจภาพวันที่ 28 ตุลาคม 2026
+
+ผู้ให้บริการ: Pexels
+ใบอนุญาต: Pexels License — https://www.pexels.com/license/
+คำอธิบายสิทธิ์: https://help.pexels.com/hc/en-us/articles/360042295174-What-is-the-license-of-the-photos-and-videos-on-Pexels
+อนุญาตให้ใช้ส่วนตัวและเชิงพาณิชย์ได้ฟรี ไม่บังคับให้เครดิต และปรับแต่งได้
+ข้อจำกัดสำคัญ: ห้ามขาย/แจกจ่ายภาพเป็นภาพสต็อกหรือขายภาพเดิมโดยไม่ดัดแปลง ห้ามสื่อว่าบุคคลหรือแบรนด์ในภาพรับรองสินค้า ห้ามใช้เป็นเครื่องหมายการค้า อ่านเงื่อนไขเต็มที่ลิงก์ด้านบน
+ใช้ภาพประกอบเว็บไซต์เพื่อการเรียน ไม่ได้จำหน่ายภาพแยกไฟล์
+การปรับแต่ง: ดาวน์โหลดขนาดกว้าง 1000px ผ่าน Pexels CDN; หน้าเว็บครอบภาพด้วย CSS object-fit: cover ไม่แก้เนื้อหาภาพต้นฉบับ
+
+images/pizza.jpg — พิซซ่ากุ้งและมะกอก
+หน้าต้นทาง: https://www.pexels.com/photo/315755/
+ไฟล์: https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=1000
+
+images/burger.jpg — เบอร์เกอร์ชีส
+หน้าต้นทาง: https://www.pexels.com/photo/1639557/
+ไฟล์: https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1000
+
+images/pasta.jpg — พาสต้ามะเขือเทศและผัก
+หน้าต้นทาง: https://www.pexels.com/photo/1279330/
+ไฟล์: https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1000
+
+images/salad.jpg — สลัดผักรวมและชีส
+หน้าต้นทาง: https://www.pexels.com/photo/396132/
+ไฟล์: https://images.pexels.com/photos/396132/pexels-photo-396132.jpeg?auto=compress&cs=tinysrgb&w=1000
+
+images/pancakes.jpg — แพนเค้กผลไม้
+หน้าต้นทาง: https://www.pexels.com/photo/376464/
+ไฟล์: https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1000
+
+หมายเหตุ: เครื่องมืออ่านหน้า Pexels รายภาพไม่ได้ จึงไม่ระบุชื่อช่างภาพที่ยังยืนยันไม่ได้ ดาวน์โหลดภาพจาก CDN ได้ครบและตรวจเนื้อหาภาพด้วยสายตาแล้ว สิทธิ์อ้างอิงจากข้อกำหนดรวมของ Pexels

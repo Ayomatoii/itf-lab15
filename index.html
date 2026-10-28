@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="คิดเมนูไม่ออก ให้เราช่วยสุ่มมื้ออร่อยจากอาหาร 5 เมนู พร้อมภาพ คำอธิบาย และราคาตัวอย่าง">
+  <title>วันนี้กินอะไรดี | สุ่มมื้ออร่อย</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <nav class="navbar" aria-label="เมนูหลัก">
+    <div class="nav-inner"><a class="brand" href="./"><span class="brand-icon" aria-hidden="true">✳</span> วันนี้กินอะไรดี</a><span class="nav-note">เรื่องกิน ให้เราช่วยคิด</span></div>
+  </nav>
+  <main>
+    <header class="intro">
+      <span class="eyebrow">อร่อยได้ ไม่ต้องคิดนาน</span>
+      <h1>มื้อนี้…<span>กินอะไรดี?</span></h1>
+      <p>พักคำถามเดิม ๆ แล้วให้ความอร่อยเป็นเรื่องเซอร์ไพรส์<br class="desktop-break"> กดสุ่มหนึ่งครั้ง แล้วเจอเมนูที่ใช่สำหรับวันนี้</p>
+    </header>
+    <section class="food-card" aria-labelledby="food-name">
+      <div class="photo-wrap">
+        <img id="food-image" src="images/pizza.jpg" alt="พิซซ่ากุ้งและมะกอก" width="1000" height="1500" fetchpriority="high">
+        <span class="photo-tag">จานอร่อยประจำมื้อนี้</span>
+        <p id="image-error" class="image-error" hidden>โหลดภาพเมนูนี้ไม่สำเร็จ กรุณาตรวจไฟล์ในโฟลเดอร์ images</p>
+      </div>
+      <div class="card-content">
+        <div id="food-details" aria-live="polite" aria-atomic="true">
+          <p class="menu-number" id="menu-number">เมนูที่ 01 / 05</p>
+          <h2 id="food-name">พิซซ่ากุ้งและมะกอก</h2>
+          <p class="description" id="food-description">แป้งพิซซ่าอบหอม โรยชีส กุ้ง มะกอกดำ และผักร็อกเก็ต อิ่มอร่อยแบบเต็มคำ</p>
+          <div class="price-row"><span>ราคาตัวอย่าง</span><p id="food-price">189 บาท</p></div>
+        </div>
+        <button id="random-btn" type="button"><span aria-hidden="true">⤨</span> สุ่มเมนูอาหาร <span aria-hidden="true">↗</span></button>
+        <p class="button-note">สุ่มใหม่ได้เรื่อย ๆ ไม่ซ้ำเมนูล่าสุด</p>
+      </div>
+    </section>
+    <section class="selection" aria-labelledby="selection-title">
+      <div><h2 id="selection-title">5 เมนู พร้อมให้คุณลอง</h2><p>จากจานหลักถึงของหวาน เผื่อได้เจอจานโปรดใหม่</p></div>
+      <div class="mini-photos" aria-hidden="true">
+        <img src="images/pizza.jpg" alt="" width="64" height="64">
+        <img src="images/burger.jpg" alt="" width="64" height="64">
+        <img src="images/pasta.jpg" alt="" width="64" height="64">
+        <img src="images/salad.jpg" alt="" width="64" height="64">
+        <img src="images/pancakes.jpg" alt="" width="64" height="64">
+      </div>
+    </section>
+    <noscript><p class="noscript">กรุณาเปิด JavaScript ในเบราว์เซอร์เพื่อใช้ปุ่มสุ่มเมนูอาหาร</p></noscript>
+  </main>
+  <footer><span>งานปฏิบัติการครั้งที่ 15 · ธิติภาส ตั้งวิญญู · 69070090</span><a href="image-sources.txt">ที่มาของภาพและสิทธิ์การใช้</a><small>ราคาเพื่อประกอบการเรียนเท่านั้น ไม่ใช่ราคาจำหน่ายจริง</small></footer>
+</body>
+</html>
